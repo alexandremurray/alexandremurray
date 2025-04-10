@@ -16,7 +16,7 @@
 </div>
 
 <h1 id="header" align="center">
-  Hey, I'm J-Alexandre.
+  Hey, I am Alexandre.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
