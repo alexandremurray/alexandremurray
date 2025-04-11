@@ -36,6 +36,9 @@
 - :mailbox: The best way to reach me directly is through Linkedin. My DMs are always open on this platform: [![Linkedin Badge](https://img.shields.io/badge/-JAlexandreMurray-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/j-alexandre-murray-bsc-a06635133)
 - 📬: Otherwise, you can reach out to me via Discord using the small blue icon below in the "connect with me" section.
 
+- :telescope: At the moment, I am very invested in the development and deployment of Discord Bots to support of other creatives with their endeavors.
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
